@@ -14,7 +14,8 @@ Replacing the 9th graders at Thomas High School saw improved percentage of stude
 Replacing the 9th graders at Thomas High saw them move into the top 5 schools instead of the bottom 5 schools with the 2nd highest overall passing percentage, just below Cabrera High School. 
 ![Screen Shot 2020-10-18 at 5 20 58 PM](https://user-images.githubusercontent.com/68922663/96386099-4f515a00-1166-11eb-8eb0-e677b35afa48.png)
 ### Score by Grade Breakdown
-Replacing the 9th graders did not really affect the math score breakdown by grade. Although if the 9th graders were analyzed, the 9th graders at Thomas High School would be the lowest scoring 9th graders of the 15 schools. The same can be said for the 9th graders reading score, as Thomas High School would have had the lowest reading scores for 9th graders of the 15 schools. 
+Replacing the 9th graders did not really affect the math score breakdown by grade. Although if the 9th graders were analyzed, the 9th graders at Thomas High School would be the lowest scoring 9th graders of the 15 schools. The same can be said for the 9th graders reading score, as Thomas High School would have had the lowest reading scores for 9th graders of the 15 schools.
+
 ![Screen Shot 2020-10-18 at 5 22 29 PM](https://user-images.githubusercontent.com/68922663/96386139-a8b98900-1166-11eb-8fa1-f99676a19f8e.png)
 ![Screen Shot 2020-10-18 at 5 25 31 PM](https://user-images.githubusercontent.com/68922663/96386202-077f0280-1167-11eb-9344-20aa77ad46b7.png)
 ### Score by Spending Breakdown
